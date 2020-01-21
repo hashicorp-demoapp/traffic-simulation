@@ -1,6 +1,7 @@
 # Traffic Simulation
 
-[![CircleCI](https://circleci.com/gh/hashicorp-demoapp/traffic-simulation.svg?style=svg)](https://circleci.com/gh/hashicorp-demoapp/traffic-simulation)
+[![CircleCI](https://circleci.com/gh/hashicorp-demoapp/traffic-simulation.svg?style=svg)](https://circleci.com/gh/hashicorp-demoapp/traffic-simulation)  
+Docker Image: [https://hub.docker.com/repository/docker/hashicorpdemoapp/traffic-simulation](https://hub.docker.com/repository/docker/hashicorpdemoapp/traffic-simulation)  
 
 ## Parameters
 
