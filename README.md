@@ -1,5 +1,7 @@
 # Traffic Simulation
 
+[![CircleCI](https://circleci.com/gh/hashicorp-demoapp/traffic-simulation.svg?style=svg)](https://circleci.com/gh/hashicorp-demoapp/traffic-simulation)
+
 ## Parameters
 
 The following parameters can be set when running traffic sumulations. All parameters are set as environment variables
